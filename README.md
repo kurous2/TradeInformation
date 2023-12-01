@@ -3,7 +3,7 @@
 Use SSMS + Report Builder or relevant software that can create .rdl/.rdlc
 ---
 
-1. Import .csv into SQL table
+1. Import acctinfo and tradeinfo into SQL table
 
 2. Run the stored procedure in Query
 
